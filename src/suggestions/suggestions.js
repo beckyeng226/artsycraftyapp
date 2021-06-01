@@ -8,22 +8,22 @@ class Suggestions extends React.Component {
             <h2>Not sure where to start?  Check out one of these suggestions!</h2>
             <ul>
                 <li>
-                    <a href="*api for Knitting">Knitting</a>
+                    <a href="https://www.reddit.com/search.json?q=knitting">Knitting</a>
                 </li>
                 <li>
-                    <a href="* api for Crocheting">Crocheting</a>
+                    <a href="https://www.reddit.com/search.json?q=crocheting">Crocheting</a>
                 </li>
                 <li>
-                    <a href="* api for Scrapbooking">Scrapbooking</a>
+                    <a href="https://www.reddit.com/search.json?q=scrapbooking">Scrapbooking</a>
                 </li>
                 <li>
-                    <a href="* api for Drawing & Painting">Drawing & Painting</a>
+                    <a href="https://www.reddit.com/search.json?q=drawing%20painting">Drawing & Painting</a>
                 </li>
                 <li>
-                    <a href="* api for Jewelry Making">Jewelry Making</a>
+                    <a href="https://www.reddit.com/search.json?q=jewelry%20making">Jewelry Making</a>
                 </li>
                 <li>
-                    <a href="* api for Pottery/Clay">Pottery/Clay</a>
+                    <a href="https://www.reddit.com/search.json?q=clay%20pottery">Pottery/Clay</a>
                 </li>
             </ul>
       </div>
